@@ -1,6 +1,8 @@
 # MyBitburnerCode
 
 Bitburnerというゲームで使っているコードです。主にバックアップ目的。
+ご自由にどうぞ
+
 
 以下メモ
 
@@ -33,6 +35,9 @@ auto_hack_address_to_home.jsは2.65GBなので8GBのサーバーだったら8÷2
 auto_Stock_Market.jsはRedditからの流用です。auto_Stock_Market.jsを使うにはWSE AccountとTIX API AccessとMarket Data TIX API Accessが必要です。一度買っちゃえば完全放置で簡単に金が溜まるので早期購入をお勧めします。最初はWSE Accountと4S Market Data Accessで手動で株の売買をしたほうが効率がいいかも？
 
 StartUp.js 5.50GB
+
 auto_hack.js 3.50GB
+
 auto_hack_address_to_home.js 2.65GB
+
 auto_Stock_Market.js 17.70GB
